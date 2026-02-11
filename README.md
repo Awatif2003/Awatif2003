@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Awatif2003
 
 ✨About me
-- 🎓 Currently studying Computer Science👩‍💻
+- 🎓 Recent graduate Computer Science👩‍💻
 - 💻 Passionate about coding and technology
 - 🚀 Always eager to learn new things
 
