@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Awatif2003
+- 👋 Hi, I’m @Awatif
 
 ✨About me
 - 🎓 Recent graduate Computer Science👩‍💻
